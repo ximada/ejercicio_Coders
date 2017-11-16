@@ -1,0 +1,55 @@
+section  > div {
+  height: 200px;
+  width: 200px;
+  margin: 20px;
+  float: left;
+}
+
+h1 {
+font-family: monospace;
+color: grey;
+margin-left: 20px;
+}
+
+.coder4clear {
+ clear: left;
+}
+
+.coder1 {
+  background:url(../assets/img/Aide.jpg) ;
+  background-repeat: no-repeat;
+  text-align: left;
+}
+
+.coder2 {
+  background:url(../assets/img/Arinta.jpg);
+  background-repeat: no-repeat;
+}
+
+.coder3 {
+  background:url(../assets/img/Cristina.jpg);
+  background-repeat: no-repeat;
+}
+
+.coder4clear {
+  background:url(../assets/img/Karla.jpg);
+  background-repeat: no-repeat;
+}
+
+.coder5 {
+  background:url(../assets/img/Leticia.jpg);
+  background-repeat: no-repeat;
+}
+
+.coder6 {
+  background:url(../assets/img/Mayra.jpg);
+  background-repeat: no-repeat;
+}
+
+h2 {
+  font-family: monospace;
+   font-size: 10px;
+   color: #fff;
+   padding-left: 80px;
+   padding-top: 170px;
+}
